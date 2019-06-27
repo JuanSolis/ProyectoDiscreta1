@@ -1,0 +1,14 @@
+Si quieres correr logisim en cualquier plataforma
+solo debes de tener java
+
+por lo que si tienes linux y no tienes java debes:
+
+1) sudo apt-get update  // Para actualizar apt-get
+
+2) sudo apt-get install default-jre //Para instalar el entorno de ejecucion de java
+
+
+Para abrir logisim se debe de estar en la misma carpeta del logisim.jar que ya se descargo y escribir el comando
+
+1) java -jar "El archivo de logisim".jar 
+
